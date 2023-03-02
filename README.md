@@ -1,2 +1,1 @@
-# Projeto-Final-01
-ADD Products
+# Projeto-Final-em-Grupo-Case2
